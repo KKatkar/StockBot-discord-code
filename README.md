@@ -24,8 +24,8 @@ contains the python code for stock bot for reference.
   <li> traceback          <em>//debugging </em>
 </ul>
 
-<bf>Join the channel to check it out!
+Join the channel to check it out! \n
 LINK : https://discord.com/channels/795700956095578132/795700956095578135
   
-<bf> Video demonstration
+Video demonstration \n
 LINK : https://youtu.be/0w5HRHv7uJg
