@@ -24,8 +24,12 @@ contains the python code for stock bot for reference.
   <li> traceback          <em>//debugging </em>
 </ul>
 
-Join the channel to check it out!
-LINK : https://discord.com/channels/795700956095578132/795700956095578135
+Join the channel to check it out! <br>
+INVITE LINK : https://discord.gg/qjcCvZQ2mT
   
-Video demonstration
+Video demonstration<br>
 LINK : https://youtu.be/0w5HRHv7uJg
+
+Or use a dummy account:<br>
+user email: dddddddddummy@gmail.com <br>
+password: dummy!sHere
