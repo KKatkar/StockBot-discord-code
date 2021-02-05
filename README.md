@@ -15,13 +15,13 @@ contains the python code for stock bot for reference.
 <h5>Libraries</h5>
 <ul>
   <li> discord.py
-  <li> google             //for web search
+  <li> google             <em>//for web search</em>
   <li> pandas
-  <li> numpy              //handling dataframes
-  <li> yfinance           //retrieving stock information
-  <li> plotly.express     //generating plots
-  <li> datetime           //add date configurability
-  <li> traceback          //debugging
+  <li> numpy              <em>//handling dataframes</em>
+  <li> yfinance           <em>//retrieving stock information</em>
+  <li> plotly.express     <em>//generating plots</em>
+  <li> datetime           <em>//add date configurability</em>
+  <li> traceback          <em>//debugging </em>
 </ul>
 
 <bf>Join the channel to check it out!
