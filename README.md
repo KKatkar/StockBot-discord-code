@@ -20,6 +20,9 @@ contains the python code for stock bot for reference.
 ![](https://github.com/KKatkar/StockBot-discord-code/blob/main/static/func_hourly_trends.png) 
     
   <li> Stock comparisons through plots
+    
+![](https://github.com/KKatkar/StockBot-discord-code/blob/main/static/func_periodic_plot_new.png) 
+    
   <li> Video demonsatration 
   <li> Clear chats
 </ul>
