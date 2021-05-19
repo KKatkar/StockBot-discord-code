@@ -4,9 +4,21 @@ contains the python code for stock bot for reference.
 <h5>Functionalities</h5>
 <ul>
   <li> Google Search
+    
+![](https://github.com/KKatkar/StockBot-discord-code/blob/main/static/func_search.PNG)
+    
   <li> Stock Information
+    
+![](https://github.com/KKatkar/StockBot-discord-code/blob/main/static/func_stock_info.PNG)
+    
   <li> Date, period, interval controls
+    
+![](https://github.com/KKatkar/StockBot-discord-code/blob/main/static/func_date_cmds.PNG)
+    
   <li> Hourly Trends
+    
+![](https://github.com/KKatkar/StockBot-discord-code/blob/main/static/func_hourly_trends.png) 
+    
   <li> Stock comparisons through plots
   <li> Video demonsatration 
   <li> Clear chats
